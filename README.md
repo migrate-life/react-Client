@@ -1,11 +1,16 @@
-#### [Back to Server](https://github.com/migrate-life/MigrateLife2)
+#### [See it live!](https://migrate-life.github.io/react-Client/)
 
 ## React Client
 
 Start react client:
 
 ```
-cd client
 npm i
 npm start
+```
+
+[Deploy to github pages](https://github.com/gitname/react-gh-pages):
+
+```
+npm run deploy
 ```
