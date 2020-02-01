@@ -1,6 +1,6 @@
 #### [See it live!](https://migrate-life.github.io/react-Client/)
 
-## React Client
+# React Client
 
 Start react client:
 
@@ -9,7 +9,11 @@ npm i
 npm start
 ```
 
-[Deploy to github pages](https://github.com/gitname/react-gh-pages):
+---
+
+## [Deploy to github pages](https://github.com/gitname/react-gh-pages):
+
+Run command below
 
 ```
 npm run deploy
